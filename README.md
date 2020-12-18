@@ -4,7 +4,7 @@
 saját oldalunk, template-ből egyedivé alakítva
 
 <h4>https://latnieslatszani.hu/ </h4>
-frontend buildelés teljesen a nulláról,  design tervek alapján, Laravel alapú cms-ben
+frontend buildelés teljesen a nulláról,  design tervek alapján
 
 <h4>https://eatnatural.shop/</h4>
 teljes frontend csere, a már kész backendezett webshopon
@@ -12,7 +12,9 @@ teljes frontend csere, a már kész backendezett webshopon
 <h4>https://ironinghands.hu/</h4>
 template alapján egyedi oldal, üzemeltetés részét is mi visszük
 
-
 <h4>https://szervezzonline.d.futurit.hu/</h4>
 Félkész, ennek a frontendjét is mi húztuk fel korábban, design tervek alapján buildeltünk, ez volt az első projektünk.
+
+<h4>https://valkon.d.futurit.hu/</h4>
+Ezen is mi dolgoztunk, a frontendet húztuk fel design tervek alapján. 
 
