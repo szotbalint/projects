@@ -10,7 +10,7 @@ frontend buildelés teljesen a nulláról,  design tervek alapján
 teljes frontend csere, a már kész backendezett webshopon
 
 <h4>https://ironinghands.hu/</h4>
-template alapján egyedi oldal
+template alapján, ügyfelünk igényei szerint alakítva
 
 <h4>https://szervezzonline.d.futurit.hu/</h4> és </br>
 <h4>https://valkon.d.futurit.hu/</h4>
