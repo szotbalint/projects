@@ -15,6 +15,6 @@ template alapján egyedi oldal
 <h4>https://szervezzonline.d.futurit.hu/</h4> és </br>
 <h4>https://valkon.d.futurit.hu/</h4>
 Félkészek, ezeknek a frontendjét mi húztuk fel, design tervek alapján buildeltünk, </br>
-korábban dolgoztunk rajta egy cégnél.
+korábban dolgoztunk rajta egy cégnél, első projektjeink voltak a nyáron.
 
 
