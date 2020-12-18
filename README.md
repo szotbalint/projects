@@ -1,7 +1,7 @@
 # Átadott projektek
 
 <h4>https://nextwebgen.hu</h4>
-saját oldalunk, template-ből egyedivé alakítva
+saját oldalunk
 
 <h4>https://latnieslatszani.hu/ </h4>
 frontend buildelés teljesen a nulláról,  design tervek alapján
@@ -10,11 +10,11 @@ frontend buildelés teljesen a nulláról,  design tervek alapján
 teljes frontend csere, a már kész backendezett webshopon
 
 <h4>https://ironinghands.hu/</h4>
-template alapján egyedi oldal, üzemeltetés részét is mi visszük
+template alapján egyedi oldal
 
-<h4>https://szervezzonline.d.futurit.hu/</h4>
-Félkész, ennek a frontendjét is mi húztuk fel korábban, design tervek alapján buildeltünk, ez volt az első projektünk.
-
+<h4>https://szervezzonline.d.futurit.hu/</h4> és </br>
 <h4>https://valkon.d.futurit.hu/</h4>
-Ezen is mi dolgoztunk, a frontendet húztuk fel design tervek alapján. 
+Félkészek, ezeknek a frontendjét mi húztuk fel, design tervek alapján buildeltünk, </br>
+korábban dolgoztunk rajta cégnél.
+
 
