@@ -15,7 +15,7 @@ template alapján, ügyfelünk igényei szerint alakítva
 <h4>https://valkon.hu/</h4>
 Komplett frontend felhúzása deisgn tervek alapján. [korábbi cégnél]
 
-<h4>https://szervezzonline.d.futurit.hu/</h4> és </br>
+<h4>https://szervezzonline.d.futurit.hu/</h4> </br>
 Félkész projekt,  a frontendjét mi húztuk fel, design tervek alapján buildeltünk, </br>
 [korábbi cégnél]
 
