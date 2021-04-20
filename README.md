@@ -12,9 +12,11 @@ teljes frontend csere, a már kész backendezett webshopon
 <h4>https://ironinghands.hu/</h4>
 template alapján, ügyfelünk igényei szerint alakítva
 
+<h4>https://valkons.hu/</h4>
+Komplett frontend felhúzása deisgn tervek alapján.
+
 <h4>https://szervezzonline.d.futurit.hu/</h4> és </br>
-<h4>https://valkon.d.futurit.hu/</h4>
-Félkészek, ezeknek a frontendjét mi húztuk fel, design tervek alapján buildeltünk, </br>
-korábban dolgoztunk rajta egy cégnél, első projektjeink voltak a nyáron.
+Félkész projekt,  a frontendjét mi húztuk fel, design tervek alapján buildeltünk, </br>
+korábban dolgoztunk rajta egy cégnél, első projektünk volt.
 
 
