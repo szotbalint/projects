@@ -1,5 +1,7 @@
 # Átadott projektek
 
+Stack: HTML, CSS-SCSS, JS-jQuery, PHP-Laravel, OctoberCMS, MySQL.
+
 <h4>https://nextwebgen.hu</h4>
 Saját oldalunk
 
