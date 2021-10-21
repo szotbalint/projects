@@ -1,6 +1,6 @@
 # Átadott projektek
 
-Stack: HTML, CSS-SCSS, Bootstrap 5, JS-jQuery, PHP-Laravel, OctoberCMS, MySQL.
+Stack: HTML, CSS-SCSS, Bootstrap 5, JS-jQuery, PHP-Laravel, OctoberCMS, Twig template engine, MySQL.
 
 <h4>https://nextwebgen.hu</h4>
 Saját oldalunk
