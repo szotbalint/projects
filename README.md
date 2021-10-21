@@ -8,7 +8,7 @@ Saját oldalunk
 <h4>https://jomelo.hu/</h4>
 Álláshirdetési portál - Webdesign, fullstack fejlesztés, üzemeltetés, a Laravel alapú OctoberCMS keretrendszerben.
 
-<h4>https://latnieslatszani.hu/ </h4>
+<h4>https://osz.latnieslatszani.hu/</h4>
 Frontend buildelés, design tervek alapján [korábbi cégnél]
 
 <h4>https://eatnatural.shop/</h4>
