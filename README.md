@@ -8,6 +8,10 @@ Saját oldalunk
 <h4>https://jomelo.hu/</h4>
 Álláshirdetési portál - Webdesign, fullstack fejlesztés, üzemeltetés, a Laravel alapú OctoberCMS keretrendszerben.
 
+<h4>https://allegro.nextwebgen.hu/</h4>
+Admin panel frontend fejlesztés AJAX komponens alapú megoldásokkal, a WinterCMS keretrendszerben grafikai tervek alapján.
+Nem reszponzív, csak dekstop verzió (1080p-re optimalizált).
+
 <h4>https://osz.latnieslatszani.hu/</h4>
 Frontend buildelés, design tervek alapján [korábbi cégnél]
 
