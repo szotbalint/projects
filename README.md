@@ -35,3 +35,9 @@ Landing page buildelés, frontend fejlesztés.
 
 <h4>https://jasz-butor.hu/</h4>
 Landing page webdesign, fullstack fejlesztés.
+
+<h4>https://antikvarium.igenyeshonlap.hu/</h4>
+Webshop fejlesztése, Prestashop alapú webshopmotor felhasználásával [fejlesztés alatt...]
+
+<h4>https://urbanrooms.hu/</h4>
+WordPress keresőtoptimalizálás [folyamatban...]
