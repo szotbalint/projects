@@ -40,4 +40,10 @@ Landing page webdesign, fullstack fejlesztés.
 Webshop fejlesztése, Prestashop alapú webshopmotor felhasználásával [fejlesztés alatt...]
 
 <h4>https://urbanrooms.hu/</h4>
-WordPress keresőtoptimalizálás [folyamatban...]
+WordPress keresőtoptimalizálás
+
+<h4>https://szentistvanpalinkalovagrendsoly.hu/</h4>
+Egyedi fejlesztésű weboldal
+
+<h4>https://sutogepkft.igenyeshonlap.hu/</h4>
+Egyedi fejlesztés [folyamatban...]
