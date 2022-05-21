@@ -37,13 +37,19 @@ Landing page buildelés, frontend fejlesztés.
 Landing page webdesign, fullstack fejlesztés.
 
 <h4>https://antikvarium.igenyeshonlap.hu/</h4>
-Webshop fejlesztése, Prestashop alapú webshopmotor felhasználásával [fejlesztés alatt...]
+Webshop fejlesztése, Prestashop alapú webshopmotor felhasználásával
 
 <h4>https://urbanrooms.hu/</h4>
-WordPress keresőtoptimalizálás
+WordPress SEO (keresőtoptimalizálás) és PPC marketing
 
 <h4>https://szentistvanpalinkalovagrendsoly.hu/</h4>
 Egyedi fejlesztésű weboldal
 
 <h4>https://sutogepkft.igenyeshonlap.hu/</h4>
 Egyedi fejlesztés [folyamatban...]
+
+<h4>https://jobgroup.igenyeshonlap.hu/</h4>
+Egyedi natív frontend fejlesztés
+
+<h4>https://konyv.igenyeshonlap.hu/</h4>
+Egyedi fejlesztés, Laravel-ben
